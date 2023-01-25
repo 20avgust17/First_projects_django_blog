@@ -1,1 +1,1 @@
-# first_projects_django_blog
+Simple website-blog using django, html-css, bootstrap. the first introduction to django)
